@@ -407,7 +407,7 @@ const PORT = process.env.PORT || 3000;
 //   useFindAndModify: false,
 // });
 
-const URL = process.env.MONGO_URL;
+var URL = process.env.MONGO_URL;
 mongoose.connect(URL, {
     useNewUrlParser: true,
     useUnifiedTopology: true,

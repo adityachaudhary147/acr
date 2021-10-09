@@ -1,3 +1,3 @@
-MONGO_URL = mongodb+srv://temp:acrProject123@cluster0.gihd1.mongodb.net/ACR?retryWrites=true&w=majority
+MONGO_URL = "mongodb+srv://temp:acrProject123@cluster0.gihd1.mongodb.net/ACR?retryWrites=true&w=majority"
 mailer_email = acr.nitj@gmail.com
 mailer_pass  = @acrReport
